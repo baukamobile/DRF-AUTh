@@ -13,3 +13,5 @@ urlpatterns = [
 
 
 #git pull example
+
+# git remote add origin https://github.com/baukamobile/DRF-AUTh.git

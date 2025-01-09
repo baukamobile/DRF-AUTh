@@ -14,4 +14,5 @@ urlpatterns = [
 
 #git pull example
 
+# git remote add origin https://github.com# git remote add origin https://github.com/baukamobile/DRF-AUTh.git/baukamobile/DRF-AUTh.git
 # git remote add origin https://github.com/baukamobile/DRF-AUTh.git
